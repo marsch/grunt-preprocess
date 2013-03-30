@@ -30,7 +30,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "preprocess": "git://github.com/marsch/grunt-preprocess.git",
+    "preprocess": "git://github.com/marsch/preprocess.git",
     "grunt": "~0.4.0a"
   },
   "devDependencies": {
